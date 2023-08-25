@@ -1,0 +1,22 @@
+.bg-purple {
+    background-color: #6f42c1;
+}
+
+.cutom-margin {
+    margin-top: 5rem !important;
+    margin-bottom: 5rem !important;
+}
+
+.icon-red {
+    color: red
+}
+.cHeight {
+    height: 250px;
+}
+.cBodyHeight {
+    height: 150px;
+}
+.moviesImg {
+    width: 180px;
+    height: 180px;
+}
